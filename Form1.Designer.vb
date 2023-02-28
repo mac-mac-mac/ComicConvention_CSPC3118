@@ -65,7 +65,7 @@ Partial Class Form1
         Me.lblGroupSize.AutoSize = True
         Me.lblGroupSize.Font = New System.Drawing.Font("Cooper Black", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblGroupSize.ForeColor = System.Drawing.Color.Coral
-        Me.lblGroupSize.Location = New System.Drawing.Point(243, 330)
+        Me.lblGroupSize.Location = New System.Drawing.Point(243, 347)
         Me.lblGroupSize.Name = "lblGroupSize"
         Me.lblGroupSize.Size = New System.Drawing.Size(171, 31)
         Me.lblGroupSize.TabIndex = 2
@@ -74,7 +74,7 @@ Partial Class Form1
         'txtGroupSize
         '
         Me.txtGroupSize.Font = New System.Drawing.Font("Cooper Black", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtGroupSize.Location = New System.Drawing.Point(461, 327)
+        Me.txtGroupSize.Location = New System.Drawing.Point(461, 344)
         Me.txtGroupSize.Name = "txtGroupSize"
         Me.txtGroupSize.Size = New System.Drawing.Size(101, 38)
         Me.txtGroupSize.TabIndex = 3
@@ -87,7 +87,7 @@ Partial Class Form1
         Me.grpBadgeType.Controls.Add(Me.radSuper)
         Me.grpBadgeType.Font = New System.Drawing.Font("Cooper Black", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.grpBadgeType.ForeColor = System.Drawing.Color.Coral
-        Me.grpBadgeType.Location = New System.Drawing.Point(184, 381)
+        Me.grpBadgeType.Location = New System.Drawing.Point(184, 420)
         Me.grpBadgeType.Name = "grpBadgeType"
         Me.grpBadgeType.Size = New System.Drawing.Size(476, 173)
         Me.grpBadgeType.TabIndex = 4
@@ -132,7 +132,7 @@ Partial Class Form1
         Me.lblRegistrationCost.AutoSize = True
         Me.lblRegistrationCost.Font = New System.Drawing.Font("Cooper Black", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblRegistrationCost.ForeColor = System.Drawing.Color.Coral
-        Me.lblRegistrationCost.Location = New System.Drawing.Point(178, 614)
+        Me.lblRegistrationCost.Location = New System.Drawing.Point(178, 637)
         Me.lblRegistrationCost.Name = "lblRegistrationCost"
         Me.lblRegistrationCost.Size = New System.Drawing.Size(263, 31)
         Me.lblRegistrationCost.TabIndex = 5
@@ -143,7 +143,7 @@ Partial Class Form1
         Me.lblCost.AutoSize = True
         Me.lblCost.Font = New System.Drawing.Font("Cooper Black", 20.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblCost.ForeColor = System.Drawing.Color.Coral
-        Me.lblCost.Location = New System.Drawing.Point(526, 614)
+        Me.lblCost.Location = New System.Drawing.Point(526, 637)
         Me.lblCost.Name = "lblCost"
         Me.lblCost.Size = New System.Drawing.Size(134, 31)
         Me.lblCost.TabIndex = 6
